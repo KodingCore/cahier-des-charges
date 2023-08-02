@@ -1,7 +1,5 @@
-# CDC - pitch
+# CDC - Pitch
 
-#### <u>Description</u>
+#### Description
 
-C'est un site qui permet la commande de sites internets ou de logiciels personnalisés pour professionnels où particulier
-
-
+Notre projet consiste à développer une plateforme en ligne permettant aux professionnels et aux particuliers de commander des sites internet ou des logiciels personnalisés selon leurs besoins spécifiques. Le site offrira une solution complète pour la création de présences en ligne uniques, adaptées à chaque entreprise ou individu.

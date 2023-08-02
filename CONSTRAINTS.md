@@ -1,25 +1,41 @@
-# CDC - constraints
+# CDC - Contraintes
 
-- Adaptation des capacitées à se servire d'un outil infoormatique
+1. **Compatibilité Navigateurs**
+   
+   * Le site doit être compatible avec tous les principaux navigateurs Web, tels que Google Chrome, Mozilla Firefox, Microsoft Edge, Safari, etc. Il doit être soigneusement testé pour assurer un bon fonctionnement et une présentation cohérente sur différentes plateformes et tailles d'écrans.
 
-- Performance : Assurer que le site soit rapide et réactif pour offrir une expérience utilisateur fluide.
+2. **Sécurité**
+   
+   * La sécurité des données clients est une priorité. Toutes les mesures nécessaires doivent être prises pour protéger les informations personnelles des utilisateurs et éviter les risques de piratage ou de fuite de données. Les mots de passe doivent être sécurisés et stockés de manière appropriée.
 
-- Scalabilité : Concevoir le site de manière à ce qu'il puisse facilement s'adapter à une augmentation de la charge en cas de succès et d'augmentation du nombre de commandes.
+3. **Gestion du Responsive**
+   
+   * Le site doit être conçu de manière à être entièrement réactif, offrant une expérience utilisateur optimale sur les ordinateurs de bureau, les tablettes et les smartphones. Le contenu, les images et les fonctionnalités doivent s'adapter automatiquement à la taille de l'écran.
 
-- Multilinguisme : Prendre en compte la possibilité d'avoir des commandes provenant de différentes régions et offrir une expérience multilingue si nécessaire.
+4. **Accessibilité**
+   
+   * Le site doit être accessible à tous les utilisateurs, y compris ceux ayant des besoins spécifiques tels que les personnes malvoyantes ou les utilisateurs en situation de handicap. Des efforts doivent être faits pour se conformer aux directives d'accessibilité du Web (WCAG).
 
-- Système de gestion des commandes : Mettre en place un système robuste pour suivre et gérer les commandes de manière efficace.
+5. **Obligations Légales**
+   
+   * Le site doit se conformer aux lois et réglementations en vigueur concernant la protection des données personnelles et la sécurité des transactions en ligne. Des mentions légales et une politique de confidentialité doivent être incluses pour informer les utilisateurs de leurs droits et obligations.
 
-- Intégration de paiement sécurisé : Si le site propose des transactions financières, assurer la sécurité des paiements en intégrant des méthodes de paiement fiables et sécurisées.
+6. **Besoin de Support**
+   
+   * Une équipe de support doit être mise en place pour répondre aux questions et aux problèmes rencontrés par les utilisateurs. Un canal de communication facilement accessible (par exemple, une adresse e-mail de support) doit être fourni pour traiter rapidement les demandes d'aide.
 
-- Protection des données : Se conformer aux réglementations sur la protection des données personnelles et mettre en place des mesures pour garantir la confidentialité des informations des clients.
+7. **Utilisation du Paradigme POO**
+   
+   * La conception et le développement du site doivent être réalisés en utilisant le paradigme de programmation orientée objet (POO). Cette approche facilitera la maintenance, la réutilisation du code et la gestion des fonctionnalités du site.
 
-- Maintenance et mises à jour : Prévoir une stratégie de maintenance régulière et des mises à jour pour assurer le bon fonctionnement continu du site.
+8. **Technologies Requises**
+   
+   * Les technologies suivantes doivent être utilisées pour le développement du site :
+     * HTML, CSS et JavaScript pour l'interface utilisateur et l'expérience client.
+     * PHP pour la logique serveur et le traitement des données.
+     * SQL pour la gestion des bases de données.
+     * Le modèle MVC (Modèle-Vue-Contrôleur) pour assurer une organisation et une séparation claires des composants du site.
 
-- Tests et validation : Effectuer des tests approfondis pour s'assurer que toutes les fonctionnalités du site fonctionnent correctement et valider le site auprès des utilisateurs finaux.
-
-- Intégration avec les outils existants : Si l'entreprise a déjà des systèmes ou des outils en place, veiller à ce que le nouveau site puisse s'intégrer harmonieusement.
-
-- Contraintes budgétaires : Respecter les limites budgétaires fixées pour le développement et la maintenance du site.
-
-- Délais de livraison : Fixer des échéances réalistes pour le développement et le lancement du site, en tenant compte de toutes les étapes nécessaires.
+9. **Maintenance et Mises à Jour**
+   
+   * Une stratégie de maintenance régulière doit être mise en place pour garantir le bon fonctionnement continu du site et assurer la correction rapide des éventuels problèmes rencontrés par les utilisateurs. Les mises à jour du site doivent être effectuées de manière transparente pour améliorer les performances et la sécurité.
