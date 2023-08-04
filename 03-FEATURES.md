@@ -18,7 +18,7 @@ Le site offrira les fonctionnalités suivantes :
    
    * Une fonctionnalité de contact permettra aux clients potentiels de vous envoyer des messages directement depuis le site pour poser des questions, demander des informations supplémentaires ou obtenir de l'aide.
 
-5. **Passer des Commandes (Client potentiel)**     Voir pour le timing!!!
+5. **Passer des Commandes (Client potentiel)**     <span style="color: red;">**Voir pour le timing!!!**</span>
    
    * Une fois qu'un client potentiel aura reçu et accepté un devis personnalisé, il pourra passer sa commande en confirmant les détails de sa demande et en procédant au paiement.
 
@@ -30,6 +30,8 @@ Le site offrira les fonctionnalités suivantes :
    
    * Les utilisateurs auront la possibilité de créer un compte pour accéder à des fonctionnalités supplémentaires, telles que la sauvegarde de devis, le suivi des commandes en cours, et la gestion de leurs informations personnelles.
 
-8. **Partager des Avis (Client)**
+8. **Partager des Avis (Client)**   <span style="color: red;"> **Voir pour le timing!!! (pas de commandes, pas de reviews)** </span>
    
    * Les clients pourront laisser des avis et des témoignages concernant leur expérience avec votre service. Ces avis seront affichés sur le site pour montrer la satisfaction des clients précédents.
+
+
