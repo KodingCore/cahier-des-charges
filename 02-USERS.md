@@ -10,7 +10,13 @@ Le site cible deux segments principaux d'utilisateurs, chacun ayant des caracté
    * Besoins : Ces entreprises souhaitent avoir une présence en ligne professionnelle et personnalisée pour promouvoir leurs produits et services auprès d'un public plus large. Elles recherchent des sites internet fonctionnels, modernes et adaptés à leurs activités spécifiques.
    * Accessibilité : Le site doit être convivial et intuitif pour s'adapter aux différents niveaux de compétence en informatique de ce public. Des instructions claires et une navigation simple sont essentielles.
 
-Voir mini boutique / catalogue (artisants / artistes)
+1. **Boutique / Portfolio en ligne pour artisans et artistes** :
+
+   * Age moyen : 25 à 50 ans
+   * Profil : Artisans, artistes et créateurs indépendants qui souhaitent créer une présence en ligne pour exposer leurs créations, leurs produits ou leurs services.
+   * Niveau de Compétence : Variable, allant des utilisateurs ayant une connaissance limitée de la technologie à ceux qui sont plus familiers avec les outils numériques.
+   * Besoins : Ces utilisateurs ont besoin d'une plateforme leur permettant de présenter leurs produits, leurs créations ou leurs réalisations sous forme de mini-boutique ou de catalogue en ligne. Ils recherchent une solution conviviale et esthétiquement agréable pour mettre en valeur leurs talents et attirer de nouveaux clients.
+   * Accessibilité : La plateforme doit être facile à utiliser, avec des options de personnalisation pour refléter l'esthétique et le style propre à chaque artisan ou artiste. La navigation doit être intuitive pour permettre aux visiteurs de découvrir facilement les produits et de passer commande de manière fluide.
 
 1. **Particuliers et Indépendants** :
    
