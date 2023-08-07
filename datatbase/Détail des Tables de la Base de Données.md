@@ -21,9 +21,7 @@ Détail des Tables de la Base de Données
 * `image_path` : VARCHAR(255) - chemin de l'image représentant le template.
 * `price` : DECIMAL(10,2) - prix du template.
 * `created_at` : DATETIME - date de création du template.
-* `updated_at` : DATETIME - date de dernière mise à jour du template.
-
-# 
+* `updated_at` : DATETIME - date de dernière mise à jour du template. 
 
 ### Table "Categories"
 

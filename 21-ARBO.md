@@ -12,14 +12,12 @@ login.phtml                                 /login
 
 templates.phtml                        /templates
 
-folio.phtml                                  /folio
+
 
 quote-request.phtml                /quote-request
 
 contact.phtml                            /contact
 
 dashboard.phtml                      /dashboard
-
-
 
 
