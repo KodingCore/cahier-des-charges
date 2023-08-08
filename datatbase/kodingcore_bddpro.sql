@@ -5,12 +5,19 @@ USE kodingcore_bddpro;
 CREATE TABLE users (
     user_id INT PRIMARY KEY AUTO_INCREMENT,
     username VARCHAR(50),
-    first_name VARCHAR(50),
-    last_name VARCHAR(50),
     email VARCHAR(100),
-    tel VARCHAR(15),
     password VARCHAR(255),
     role VARCHAR(15)
+) ENGINE=InnoDB;
+
+-- Create table "infos"
+CREATE TABLE infos (
+    info_id INT PRIMARY KEY AUTO_INCREMENT,
+    user_id INT,
+    first_name VARCHAR(50),
+    last_name VARCHAR(50),
+    tel VARCHAR(15),
+    FOREIGN KEY (user_id) REFERENCES users(user_id)
 ) ENGINE=InnoDB;
 
 -- Create table "categories"
