@@ -17,6 +17,9 @@ CREATE TABLE infos (
     first_name VARCHAR(50),
     last_name VARCHAR(50),
     tel VARCHAR(15),
+    address VARCHAR(255),
+    zip VARCHAR(15),
+    city VARCHAR(100),
     FOREIGN KEY (user_id) REFERENCES users(user_id)
 ) ENGINE=InnoDB;
 
