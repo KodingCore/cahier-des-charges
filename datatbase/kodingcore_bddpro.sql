@@ -5,7 +5,7 @@ USE kodingcore_bddpro;
 CREATE TABLE users (
     user_id INT PRIMARY KEY AUTO_INCREMENT,
     username VARCHAR(50),
-    email VARCHAR(100),
+    email VARCHAR(50),
     password VARCHAR(255),
     role VARCHAR(15)
 ) ENGINE=InnoDB;
