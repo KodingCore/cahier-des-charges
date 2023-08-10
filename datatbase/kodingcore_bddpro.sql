@@ -51,7 +51,7 @@ CREATE TABLE categories (
 CREATE TABLE templates (
     template_id INT PRIMARY KEY AUTO_INCREMENT,
     name VARCHAR(100),
-    description VARCHAR(255),
+    description TEXT,
     category_id INT,
     image_path VARCHAR(255),
     price DECIMAL(10, 2),
