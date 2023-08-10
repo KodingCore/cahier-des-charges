@@ -10,6 +10,23 @@ CREATE TABLE users (
     role VARCHAR(15)
 ) ENGINE=InnoDB;
 
+CREATE TABLE messages (
+    message_id INT PRIMARY KEY AUTO_INCREMENT,
+    subject VARCHAR(50),
+    content TEXT,
+    user_id INT,
+    send_date DATETIME,
+    FOREIGN KEY (user_id) REFERENCES users(user_id)
+) ENGINE=InnoDB;
+
+CREATE TABLE reviews (
+    review_id INT PRIMARY KEY AUTO_INCREMENT,
+    content VARCHAR(255),
+    user_id INT,
+    send_date DATETIME,
+    FOREIGN KEY (user_id) REFERENCES users(user_id)
+) ENGINE=InnoDB;
+
 -- Create table "infos"
 CREATE TABLE infos (
     info_id INT PRIMARY KEY AUTO_INCREMENT,
