@@ -19,14 +19,6 @@ CREATE TABLE messages (
     FOREIGN KEY (user_id) REFERENCES users(user_id)
 ) ENGINE=InnoDB;
 
-CREATE TABLE reviews (
-    review_id INT PRIMARY KEY AUTO_INCREMENT,
-    content VARCHAR(255),
-    user_id INT,
-    send_date DATETIME,
-    FOREIGN KEY (user_id) REFERENCES users(user_id)
-) ENGINE=InnoDB;
-
 -- Create table "infos"
 CREATE TABLE infos (
     info_id INT PRIMARY KEY AUTO_INCREMENT,
@@ -58,6 +50,16 @@ CREATE TABLE templates (
     created_at DATETIME,
     updated_at DATETIME,
     FOREIGN KEY (category_id) REFERENCES categories(category_id)
+) ENGINE=InnoDB;
+
+CREATE TABLE reviews (
+    review_id INT PRIMARY KEY AUTO_INCREMENT,
+    content VARCHAR(255),
+    user_id INT,
+    template_id INT,
+    send_date DATETIME,
+    FOREIGN KEY (user_id) REFERENCES users(user_id),
+    FOREIGN KEY (template_id) REFERENCES templates(template_id)
 ) ENGINE=InnoDB;
 
 -- Create table "images"
