@@ -32,7 +32,7 @@ Jour 7 (mardi 11 septembre):
 
 Jour 8 (mercredi 12 septembre):
 
-- Mettre en place le système de gestion des commandes (4 heures).
+- Mettre en place le système de gestion des devis (3 heures).
 
 Jour 9 (jeudi 13 septembre):
 
@@ -101,5 +101,3 @@ Jour 23 (mercredi 3 octobre):
 - Préparer le lancement officiel du site (4 heures).
 - Faire des ajustements finaux si nécessaire (2 heures).
 - Lancer le site officiellement et s'assurer de son bon fonctionnement (2 heures).
-
-
